@@ -1,0 +1,11 @@
+
+
+Patient Name: John Doe 
+Age/Gender: 28 / Male 
+Date of Collection: 27-Jan-2026 
+Reference Hospital: City Health Laboratory 
+Test Name Result Unit Reference Range 
+Fasting Blood Sugar (FBS) 105 mg/dL 70 - 100 
+HbA1c 5.7 % 4.0 - 5.6 
+Post-Prandial Glucose 140 mg/dL < 140 
+ 
