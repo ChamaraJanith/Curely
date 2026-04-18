@@ -6,6 +6,8 @@
         <div class="text-subtitle1 text-grey-7 q-mt-sm">Join Curely Health Tracking</div>
       </q-card-section>
 
+      //check
+
       <q-card-section class="q-pa-xl">
         <q-form @submit="handleSubmit" class="q-gutter-md">
            <q-input
